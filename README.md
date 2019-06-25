@@ -13,7 +13,7 @@ Challenge problems are fun, hands-on coding exercises covering a variety of topi
 
 [Solve it!](path/to/otherfile.yeet)
 
-## 1.3 Data Science Project
+## 1.3 Projects
 ### 1.3.1 Data Analysis With Pandas
 Pandas is the defacto package for data analysis in Python, it provides high-performance and easy-to-use data structures. In this project, we are going to use the basics of pandas to analyze Google Play Store data. What can we learn about trends in the Google Play Store and what stories can we tell with the data?
 
